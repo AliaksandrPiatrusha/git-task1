@@ -1,0 +1,11 @@
+Postgre
+MySQL
+Oracle
+MS SQL server
+DBeaver
+MariaDB
+DB2
+Casandra - columns
+MongoDB - json
+Redis - key-value
+
