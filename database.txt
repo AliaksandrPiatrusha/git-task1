@@ -9,3 +9,5 @@ Casan123ra - columns
 Mongo123B - json
 Re123is - key-value
 
+NoSQL : MongoDB,Redis,Casandra,Neo4j
+SQL: PostgreSQL, MySQL, Oracle.
