@@ -2,10 +2,12 @@ Postgre
 MySQL
 Oracle
 MS SQL server
-DBeaver
-MariaDB
-DB2
-Casandra - columns
-MongoDB - json
-Redis - key-value
+123Beaver
+Maria123B
+123B2
+Casan123ra - columns
+Mongo123B - json
+Re123is - key-value
 
+NoSQL : MongoDB,Redis,Casandra,Neo4j
+SQL: PostgreSQL, MySQL, Oracle.
